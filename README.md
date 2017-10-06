@@ -13,7 +13,7 @@ I think that sharing and reusing code as much as possible through github and oth
 * [Basic Neural Network](https://github.com/claytonblythe/pytorchNotebooks/blob/master/basic_neural_network.ipynb)
 
 2. Intermediate
-* [Convolutional Neural Network](https://github.com/claytonblythe/pytorchNotebooks/blob/master/basic_neural_network.ipynb)
+* [Convolutional Neural Network](https://github.com/claytonblythe/pytorchNotebooks/blob/master/convolutional_neural_network.ipynb)
 * [Recurrent Neural Network](https://github.com/claytonblythe/pytorchNotebooks/blob/master/recurrent_neural_network.ipynb)
 
 I am still learning, so feel free to add useful cookbooks you have, or give suggestions on cleaner ways to do things. I aim to update this repository as much as I can! 
